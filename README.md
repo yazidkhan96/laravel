@@ -60,3 +60,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel
+
+## Menjalankan Project Laravel 8
+
+1. Pastikan PHP dan Composer sudah terinstal di komputer lokal Anda.
+2. Buka terminal dan pastikan Anda berada di direktori root dari aplikasi Laravel Anda.
+3. Jalankan perintah `php artisan serve` untuk menjalankan server pengembangan Laravel.
+4. Setelah menjalankan perintah tersebut, Anda akan melihat pesan yang menunjukkan bahwa server pengembangan Laravel telah dimulai dan menampilkan URL tempat aplikasi dapat diakses, seperti `http://127.0.0.1:8000`.
+5. Buka URL tersebut di browser untuk melihat aplikasi Laravel Anda.
